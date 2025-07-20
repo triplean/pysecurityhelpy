@@ -28,7 +28,7 @@ If you want to build Security Helpy you need to use PyInstaller, you can install
 pip install pyinstaller
 ```
 
-Then, open a CMD or Powershell (Linux and Mac not supportted) in the app directory and simply run the following:
+Then, open a CMD or Powershell (Linux and Mac not supported) in the app directory and simply run the following:
 
 ```
 ./build
